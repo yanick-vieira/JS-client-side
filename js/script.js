@@ -43,3 +43,22 @@ console.log(typeof num);
 
 console.log(typeof NaN);
 */
+
+//tipos de dados string
+/*
+var ownname = "Yok";
+var nickname ="Vieira"
+
+console.log(ownname + " " + nickname);
+
+document.write('Hello World!');
+*/
+
+//tipos de dados: boolean
+/*
+var wahre = true;
+console.log(wahre);
+console.log(typeof wahre);
+*/
+
+//
