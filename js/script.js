@@ -61,4 +61,6 @@ console.log(wahre);
 console.log(typeof wahre);
 */
 
-//
+//undefined & null
+var company = null;
+console.log(company);
