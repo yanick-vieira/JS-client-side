@@ -64,4 +64,25 @@ console.log(typeof wahre);
 //undefined & null
 /*var company = null;
 console.log(company);*/
+ 
+//object on javascript
+/* var obj = {
+    nome: "yok",
+    sobre: "vieira",
+    idade: 25,
+    trabalhador: true
+}
+console.log(obj.nome + " " + obj.sobre + " " + "is " + obj.idade + " " + "years old");
+console.log(obj);
+*/
 
+//arrays
+/*var arronobj = [ "pok", "yok", 25, 25,{zona1:"lisboa", zona2:"bragança"}, true, "irmão"]
+ console.log(arronobj);
+ console.log(typeof arronobj);
+
+ console.log(arronobj[4]);
+ arronobj[8] = 50;
+ console.log(arronobj[8]);
+ /*
+ 
