@@ -33,6 +33,7 @@ if(nome != "yok"){
 */
 
 //if - else if - else
+/*
 var age = "25"
 
 if(age == 25){
@@ -42,4 +43,18 @@ if(age == 25){
 }else{
     console.log("Too old to join in!");
 }
+*/
 
+//comparação de tipo de valor
+/*
+var numero = 4;
+
+if(numero == '5'){
+    console.log("O numero é do tipo number");
+}
+
+if(numero !== 5){
+    console.log("Não é o numero 5 do tipo do tipo number");
+}
+console.log(numero);
+*/
