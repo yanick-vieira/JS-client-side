@@ -11,8 +11,13 @@ p{
 }
 p:hover{
     color: #D4B830;
-    font-size: 1.6em;
 }
-input{
-   
+#add{
+   position: relative;
+   border: 0px solid black;
+   width: fit-content;
+   margin: auto;
+}
+#res{
+    
 }

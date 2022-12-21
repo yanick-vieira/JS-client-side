@@ -21,5 +21,25 @@ if(nome === "yok"){
 }
 */
 
-//practice
+//operadores de comparação 
+/*
+var nome = "yok"
+
+if(nome != "yok"){
+    console.log("O nome " + nome + " não é do usuario yok!");
+}else{
+    console.log("O seu nome esta correto!");
+};
+*/
+
+//if - else if - else
+var age = "25"
+
+if(age == 25){
+    console.log("The write age to join in!");
+}else if(age < 25){
+    console.log("Too young to join in!");
+}else{
+    console.log("Too old to join in!");
+}
 
