@@ -1,5 +1,5 @@
-//Operadores lógicos
-
+//Operadores lógicos AND or OR
+/*
 var n = "Yok";
 var i = 25;
 
@@ -10,4 +10,11 @@ if(n == "Yok" && i >= 21){
     console.log("Deve ter pelo menos 21 anos acima!");
     console.log(n + " a idade " + i + " é menor que 21!");
 } 
+*/
 
+//Operador logico
+/*
+if(!false){
+    console.log("aproved");
+}
+*/
