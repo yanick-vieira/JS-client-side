@@ -77,7 +77,8 @@ console.log(obj);
 */
 
 //arrays
-/*var arronobj = [ "pok", "yok", 25, 25,{zona1:"lisboa", zona2:"bragança"}, true, "irmão"]
+/*
+var arronobj = [ "pok", "yok", 25, 25,{zona1:"lisboa", zona2:"bragança"}, true, "irmão"]
  console.log(arronobj);
  console.log(typeof arronobj);
 
