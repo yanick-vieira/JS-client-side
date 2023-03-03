@@ -1,5 +1,5 @@
 var intro = document.getElementsByClassName('greet')[0];
 
-intro.style.color = "red";
+intro.style.color = "#ff30ff";
 
-console.log(intro);
+intro.innerHTML = document.write = 'Produto de qualidade';
